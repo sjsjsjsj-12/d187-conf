@@ -1,0 +1,101 @@
+{
+  "version": "2026-08-15",
+  "patch": "S2 Son Silah güncelleme",
+  "files": [
+    {
+      "file": "D3DX9_43.dll",
+      "hash": "6C9664A1F38AEE74D5F2F3F2BAA65725D41E235221F497E434EA13E7BF66E5DE",
+      "size": 1993216
+    },
+    {
+      "file": "Default.archcfg",
+      "hash": "9ABCA8A174A47D9056B52C01742364265B9544CB806AD86761D96C92025751BE",
+      "size": 58
+    },
+    {
+      "file": "TheRawExt.dll",
+      "hash": "3449B226841C31967E488BAEDF43A3CE7E2153EC7C91FFD7566E42C354BAFBCB",
+      "size": 9481728
+    },
+    {
+      "file": "TheRaw.exe",
+      "hash": "AAE79298EF9C76CD326B8A6BFC2CB4607118A179BAC3AEB1437DB025B6EBC776",
+      "size": 4814352
+    },
+    {
+      "file": "Game/Database/TheRaw.Gamdb00p",
+      "hash": "F2705ACBD08A69F910B9D81AF00C5C9CF51F2F550E6ED5B17BAD5114CAD0A870",
+      "size": 2252796
+    },
+    {
+      "file": "Game/Database/Table/Map.csv",
+      "hash": "428DAAFA1ACCA29383D58AED7A43BC4EDA55E42384CBCA1D5DEA3683F271C329",
+      "size": 30401
+    },
+    {
+      "file": "Game/Database/Table/ModeContribution.csv",
+      "hash": "9C964538ECD2F7F298103CEC9D027876E9157F71CFA4DA4F0B629B7CE79E1151",
+      "size": 839
+    },
+    {
+      "file": "Game/Database/Table/Rule.csv",
+      "hash": "FFD2EE4EF7BA4E498D5BDF86FC5676434988A38240B5C10952E6A71A9B99C2E4",
+      "size": 544
+    },
+    {
+      "file": "Game/Database/Table/Setting.csv",
+      "hash": "A2B4CAEFFBAC5B96671E937E294774AC1B1250814E461EC498A9A92AE44CDC95",
+      "size": 15873
+    },
+    {
+      "file": "Game/Database/Table/Shop.csv",
+      "hash": "5A0F0C270C01383D95AA4C8F3F8461A1E86B8876E4AC6DD94C04EC99D115FD08",
+      "size": 74654
+    },
+    {
+      "file": "Game/Database/Table/Slang.txt",
+      "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "size": 0
+    },
+    {
+      "file": "Game/Database/Table/TotalItem.csv",
+      "hash": "6B5339005AB2FE76029596A10185FFA2EC6131AD92E09F5D40D632BC63C0909A",
+      "size": 243209
+    },
+    {
+      "file": "Game/Database/Table/TotalItem2.csv",
+      "hash": "B25D45ACE49FDBE684B210077F74C80EE3382523CDE0EAEC3E8FD49ADD056A33",
+      "size": 18498
+    },
+    {
+      "file": "Game/Database/Table/WeaponInfo.csv",
+      "hash": "539AA83D548FB851458E96B4617D5085A4AAC74ADFCD018E4475F7676EAF1F26",
+      "size": 8191
+    },
+    {
+      "file": "Game/Database/Table/WeaponMode.csv",
+      "hash": "D3EF41D98027BDC022DDFBC28DF8BF2A322FD82213000A84DF2C5675B7DF3658",
+      "size": 2490
+    },
+    {
+      "file": "Game/Update_1.Res00",
+      "hash": "7A2746BA73BAEFA4DEDC5793F03C607E83A0D969C1FAFFD9D30215C5712C73F9",
+      "size": 81180
+    },
+    {
+      "file": "Game/Update_1.ResDt",
+      "hash": "4AFFB15F58EAF90C8CC4B57F2B3DE922608B5B916FEB8BC27B8EFC24B5DA6B68",
+      "size": 27973040
+    },
+    {
+      "file": "Game/Update_2.Res00",
+      "hash": "96D8303358FC9C35AE72312017F10F7C40B27953A671AC099A20C21B54D40DA0",
+      "size": 50704
+    },
+    {
+      "file": "Game/Update_2.ResDt",
+      "hash": "08B70241D1556AD060B313FEC4FE6E5F922563CAAB79F9FE423B200ADF125DB1",
+      "size": 71124848
+    }
+  ]
+}

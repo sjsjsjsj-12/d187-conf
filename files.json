@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-15",
+  "version": "1.0",
   "patch": "Update",
   "files": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "file": "Game/Database/TheRaw.Gamdb00p",
-      "hash": "F2705ACBD08A69F910B9D81AF00C5C9CF51F2F550E6ED5B17BAD5114CAD0A870",
+      "hash": "FF6B8DA9A808818808B165F8FCC96D38CBB02F361AB24E9B80D04666FAA7B1CF",
       "size": 2252796
     },
     {
@@ -59,8 +59,8 @@
     },
     {
       "file": "Game/Database/Table/TotalItem.csv",
-      "hash": "6B5339005AB2FE76029596A10185FFA2EC6131AD92E09F5D40D632BC63C0909A",
-      "size": 243209
+      "hash": "30836C6FF3302C1FF7233EC07C6BA84EAAC4066BB34C11EDECEE8A27CF34450F",
+      "size": 177324
     },
     {
       "file": "Game/Database/Table/TotalItem2.csv",

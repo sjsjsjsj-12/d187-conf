@@ -96,6 +96,16 @@
       "file": "Game/Update_2.ResDt",
       "hash": "08B70241D1556AD060B313FEC4FE6E5F922563CAAB79F9FE423B200ADF125DB1",
       "size": 71124848
+    },
+    {
+      "file": "Game/StringDatabase/TheRaw.Strdb00p",
+      "hash": "B382823A77263F3EA0A62FC3175A4EE8F4D50EE04E6F3AF1C5B97965A9B6445E",
+      "size": 304704
+    },
+    {
+      "file": "Game/StringDatabase/Turkey/TheRaw.Strdb00p",
+      "hash": "B382823A77263F3EA0A62FC3175A4EE8F4D50EE04E6F3AF1C5B97965A9B6445E",
+      "size": 304704
     }
   ]
 }

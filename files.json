@@ -109,8 +109,8 @@
     },
     {
       "file": "fmod_event.dll",
-      "hash": "C8222F88676C40D630D858D2D84C165EBF1BAD5333EA394B84844A7B2EABD5BC",
-      "size": 120832
+      "hash": "FA343BD2319FF3AAA0C8552CC6435F6F2374D9688BC28888D262B2D877DAFFCE",
+      "size": 115712
     },
     {
       "file": "fmod_event_orig.dll",

@@ -108,9 +108,19 @@
       "size": 304244
     },
     {
-      "file": "dinput8.dll",
-      "hash": "F4332C68B5A21E67FDD3DFE2A9CAB8661083485E1AE898C5A9877FFCA942B5EE",
+      "file": "fmodex.dll",
+      "hash": "0E1C1BCC8C56B445B0E7FF93B16A366CA03B24A0B12215BA638128F025A506BA",
       "size": 107008
+    },
+    {
+      "file": "fmodex_orig.dll",
+      "hash": "68AB44466532D8EAF2201B7C0877C80D347515DEB4D3D44DA85099FD2BB1F1C2",
+      "size": 1256448
+    },
+    {
+      "file": "dinput8.dll",
+      "hash": "6A04EB987C0C4D36474B79E38EB4B2E892A938ED52EFB450CD1FDF7141B37A5C",
+      "size": 81920
     }
   ]
 }

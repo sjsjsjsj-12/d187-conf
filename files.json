@@ -108,14 +108,14 @@
       "size": 304244
     },
     {
-      "file": "fmodex.dll",
-      "hash": "0E1C1BCC8C56B445B0E7FF93B16A366CA03B24A0B12215BA638128F025A506BA",
-      "size": 107008
+      "file": "fmod_event.dll",
+      "hash": "8DA664D9DFB3A162DA3CFB5E7EBFB0382A6F56B83609B7BD984DB36CE123A9CA",
+      "size": 109568
     },
     {
-      "file": "fmodex_orig.dll",
-      "hash": "68AB44466532D8EAF2201B7C0877C80D347515DEB4D3D44DA85099FD2BB1F1C2",
-      "size": 1256448
+      "file": "fmod_event_orig.dll",
+      "hash": "47AE911F35428611977CF1EAAB9706E12FCD72158D943FF15A2886E6337AD62A",
+      "size": 417280
     },
     {
       "file": "dinput8.dll",

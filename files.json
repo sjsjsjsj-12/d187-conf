@@ -33,6 +33,16 @@
       "size": 30401
     },
     {
+      "file": "Game/Database/Table/Machine.csv",
+      "hash": "00C6FCD4C6E1E03A8F99A0662C232605F0068ECC7AE5D41B8CEFB07F692D416E",
+      "size": 1357
+    },
+    {
+      "file": "Game/Database/Table/MachineSlot.csv",
+      "hash": "B4F0378103086A57A14A0DF3E593E95B358524A20E3621CDE6FB61BBE28C59D8",
+      "size": 6845
+    },
+    {
       "file": "Game/Database/Table/ModeContribution.csv",
       "hash": "9C964538ECD2F7F298103CEC9D027876E9157F71CFA4DA4F0B629B7CE79E1151",
       "size": 839
